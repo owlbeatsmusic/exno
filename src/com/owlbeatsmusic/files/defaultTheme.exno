@@ -1,0 +1,10 @@
+<THEMEFILE>
+noteListBg         = #F9FAFC
+noteListFg         = #282828
+noteListBgSelected = #E8EAF2
+noteListFgSelected = #70737F
+sideBarBg          = #F0F1F6
+sideBarFg          = #282828
+sideBarBgSelected  = #DEE2E8
+sideBarFgSelected  = #282828
+bottomBarBg        = #F6F5FA
